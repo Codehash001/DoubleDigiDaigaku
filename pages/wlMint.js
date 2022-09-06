@@ -275,7 +275,8 @@ useEffect(() => {
               <Link href="/publicMint" passHref>
                 <a className='text-brand-blue uppercase font-normal hover:text-brand-01'> {" "}Go to Publc Sale</a>
               </Link> 
-              </h3>
+             
+	     </h3>
             </div>
             </div>
             </div>
